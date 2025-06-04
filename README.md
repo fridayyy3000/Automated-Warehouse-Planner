@@ -22,7 +22,3 @@ We model the warehouse as a grid world and use both **custom heuristics** and **
 - Instances (`inst*.asp`) specify shelf layouts, robot positions, products, and delivery orders.
 - Solver scripts parse the instance, generate valid robot actions, and optionally run optimization routines.
 
----
-
-## 📁 Repository Structure
-
